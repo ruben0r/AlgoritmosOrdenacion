@@ -1,5 +1,4 @@
 package Exceptions;
-
 import javax.swing.JOptionPane;
 
 public class NIM {

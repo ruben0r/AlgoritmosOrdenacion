@@ -1,4 +1,5 @@
 	package cuadrado;
+	
 	import javax.swing.JOptionPane;
 	public class MainCuadrado {
 		static Cuadrado cua[]=new Cuadrado[5];
